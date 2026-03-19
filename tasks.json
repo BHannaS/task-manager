@@ -1,0 +1,72 @@
+[
+    {
+        "id": "52f38165-30d3-4216-804e-83bab10602c7",
+        "title": "5",
+        "done": false,
+        "priority": "Medium",
+        "deadline": "2026-03-19"
+    },
+    {
+        "id": "104a3577-174e-47e0-8661-46ccef2750b4",
+        "title": "Küche putzen",
+        "done": false,
+        "priority": "Medium",
+        "deadline": "2026-03-19"
+    },
+    {
+        "id": "eec9282c-3c35-461e-9cdb-4f5b4e262620",
+        "title": "Make dinner",
+        "done": false,
+        "priority": "Medium",
+        "deadline": "2026-03-19"
+    },
+    {
+        "id": "542b0c7b-3265-48b6-90f4-fea603b2aec5",
+        "title": "Brot kaufen",
+        "done": true,
+        "priority": "Low",
+        "deadline": "2026-03-20"
+    },
+    {
+        "id": "95b479f9-d2c2-49b9-9141-8e3005394d41",
+        "title": "Reed book",
+        "done": true,
+        "priority": "High",
+        "deadline": "2026-03-22"
+    },
+    {
+        "id": "0d83a8d9-7b5d-4982-8d52-f6ee501eb9c1",
+        "title": "Go for a walk",
+        "done": false,
+        "priority": "Medium",
+        "deadline": "2026-03-19"
+    },
+    {
+        "id": "7f5e711d-1df9-43ae-8493-129b3b15c34b",
+        "title": "Sport machen",
+        "done": false,
+        "priority": "Medium",
+        "deadline": "2026-03-19"
+    },
+    {
+        "id": "b63159cb-7e3e-4c85-b8f7-d89d4e4d3b0a",
+        "title": "Händelstraße besuchen",
+        "done": false,
+        "priority": "Low",
+        "deadline": "2026-03-21"
+    },
+    {
+        "id": "e6e9833d-144e-4bde-96c7-bad06d21be47",
+        "title": "more test",
+        "done": false,
+        "priority": "High",
+        "deadline": "2026-03-20"
+    },
+    {
+        "id": "e9c0ca4a-4f16-44c9-9da1-79556565c59a",
+        "title": "Email schreiben",
+        "done": false,
+        "priority": "Medium",
+        "deadline": "2026-03-21"
+    }
+]
